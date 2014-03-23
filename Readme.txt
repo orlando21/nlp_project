@@ -1,0 +1,1 @@
+This is my first attempt in Java to apply the Apache OpenNLP library.
