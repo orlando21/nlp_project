@@ -1,0 +1,15 @@
+
+Number of sentences: 3
+
+
+Number of tokens: 36
+
+
+Here are the POS tags: The_DT Manhattan_NNP Project_NNP was_VBD a_DT research_NN and_CC development_NN project_NN that_WDT produced_VBD the_DT first_JJ atomic_JJ bombs_NNS during_IN World_NNP War_NNP II_NNP ._. Mary_NNP had_VBD a_DT little_JJ lamb_NN and_CC her_PRP$ fleece_NN was_VBD white_JJ as_IN snow_NN ._. Hello_UH world_NN ._.
+
+Next on, here are the chunks: [B-NP, I-NP, I-NP, B-VP, B-NP, I-NP, I-NP, I-NP, I-NP, B-NP, B-VP, B-NP, I-NP, I-NP, I-NP, B-PP, B-NP, I-NP, I-NP, I-NP, I-NP, B-VP, B-NP, I-NP, I-NP, O, B-NP, I-NP, B-VP, B-ADJP, B-PP, B-NP, O, O, B-NP, O]
+
+Next on, here are the parse results:
+
+ (TOP (S (NP (DT The) (NNP Manhattan) (NNP Project)) (VP (VBD was) (NP (NP (DT a) (NN research) (CC and) (NN development) (NN project)) (SBAR (WHNP (WDT that)) (S (VP (VBD produced) (NP (DT the) (JJ first) (JJ atomic) (NNS bombs)) (PP (IN during) (NP (NNP World) (NNP War)))))))) (. II.)))
+ (TOP (S (NP (NNP Mary)) (VP (VBD had) (SBAR (S (NP (NP (DT a) (JJ little) (NN lamb)) (CC and) (NP (PRP$ her) (NN fleece))) (VP (VBD was) (ADJP (JJ white)) (ADVP (RB as)))))) (. snow.)))
