@@ -1,6 +1,5 @@
 <html lang="en">
-<h1>Java NLP Project Using Apache Open NLP</h1>
-<hr>
+<h2>Java NLP Project Using Apache Open NLP</h2>
 <p>
 This is a sample web page from thesitewizard.com's HTML tutorial.
 </p>
