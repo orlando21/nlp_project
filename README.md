@@ -52,7 +52,7 @@ The <code>main[]</code> method is implemented in OpenNLP_App.java, which execute
 </p>
 <h3>Other Features</h3>
 <p>
-This code uses Maven. See the OpenNLP documentation for more information.
+This code uses Maven dependency. See the OpenNLP documentation for more information.
 </p>
 </body>
 </html>
