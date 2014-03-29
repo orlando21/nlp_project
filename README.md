@@ -4,7 +4,7 @@
 This repository contains Java demonstration code for implementing <a href="https://opennlp.apache.org/">Apache OpenNLP 1.5.3.</a> I wrote this code as a first experience with Natural Language Processing. Note there are many different ways of implementing NLP, but the Open NLP library is a good place to start for beginners.
 </p>
 <p>
-This repository was uploaded with all necessary Java, OpenNLP, and Maven libraries and is more or less ready to go.
+This repository was uploaded with all necessary Java, OpenNLP, and Maven libraries and is more or less ready to go. Refer to the Apache OpenNLP link above for info on requirements and versions.
 </p>
 <h3>Goals</h3>
 <p>The goal was to read an input.txt text file (small size because running these classes on longer text can take a loooong time), and write the NLP analysis to an output.txt file. Also the appropriate OpenNLP English-language model was used for analysis. This code does the following:</p>
